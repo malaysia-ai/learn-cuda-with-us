@@ -1,2 +1,3 @@
 # learn-cuda-with-us
-Come on vámonos, learn CUDA with us
+
+learn CUDA with us, from simple operation up to complex.
